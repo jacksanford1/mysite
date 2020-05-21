@@ -1,4 +1,4 @@
 baseURL = "https://distracted-easley-4300be.netlify.app/"
 languageCode = "en-us"
 title = "Frodo Baggins"
-theme = "basic"
+theme = "etch"
