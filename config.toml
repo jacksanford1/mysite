@@ -1,0 +1,4 @@
+baseURL = "http://jacksanford.me/"
+languageCode = "en-us"
+title = "Jack Sanford"
+theme = "starter"
