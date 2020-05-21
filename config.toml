@@ -1,4 +1,4 @@
 baseURL = "http://jacksanford.me/"
 languageCode = "en-us"
 title = "Frodo Baggins"
-theme = "starter"
+theme = "bootstrap"
