@@ -42,7 +42,10 @@ In contrast, the least funny episode turns out to be “The One with the Invitat
 
 In terms of the funniest seasons, the results are quite interesting (possibly incriminating?). As you can see in the chart below, the amount of laughter per season tends to keep going up as the show progressed. Were seasons 9 and 10 really THAT much funnier than seasons 1 and 2? I’ll let you decide for yourself. But this could point to the producers becoming more liberal with their inclusion of laughter as the show went on. But seeing the glass half-full, I like to think the writing simply got better as the show went on!
 
-[show custom graph of all 10 seasons and how much laughter was in each]
+{{< rawhtml >}}
+  <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jsanford9292/4.embed?showlink=false" height="525" width="100%">
+  </iframe>
+{{< /rawhtml >}}
 
 Now for the main course: Who is the funniest friend?
 
