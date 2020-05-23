@@ -48,7 +48,10 @@ Now for the main course: Who is the funniest friend?
 
 The natural thing to do would be to add up each character’s funny lines to see who is funniest. But I think this is unfair. Some characters (ahem Rachel and Ross) speak WAY more lines than other characters (poor Phoebe).
 
-[show chart of lines spoken per character]
+{{< rawhtml >}}
+  <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jsanford9292/1.embed?showlink=false" height="525" width="100%">
+  </iframe>
+{{< /rawhtml >}}
 
 So instead, we will say, if somebody speaks a line, how much laughter follows on average? (judged by seconds of laughter)
 
