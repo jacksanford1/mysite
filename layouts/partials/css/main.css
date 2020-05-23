@@ -150,6 +150,7 @@ main#content header#post-header time {
 main#content img {
     max-width: 100%;
     margin: 0 auto;
+    padding: 0 23px;
 }
 
 main#content code,

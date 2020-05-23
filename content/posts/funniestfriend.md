@@ -4,8 +4,6 @@ date: 2020-05-20T18:43:59-07:00
 draft: false
 ---
 
-## The Funniest Friend in Friends
-
 I’d like to start by giving a shoutout to quarantine. Without quarantine, one of mankind’s great mysteries might still be left unsolved: Who is truly the funniest friend in Friends?
 
 Once you ask yourself that question, it never leaves your thoughts.
@@ -92,4 +90,4 @@ I suspected Joey would do well. The best part about Joey being the funniest char
 
 ![Joey doesn't share food](https://media.giphy.com/media/llToceLTKQj0R1Asid/giphy.gif)
 
-No matter how you slice the data, these rankings pretty much hold. One exception is that Ross generates more laughter than Phoebe throughout the entire show, but he also gets way more lines throughout the show, so it would be hard to say that he’s actually funnier than Phoebe. It’s also interesting to note that Chandler actually has more funny lines than Joey. It’s just that when Joey says something funny, the audience laughs longer than they do for Chandler (by 6% on average!). 
+No matter how you slice the data, these rankings pretty much hold. One exception is that Ross generates more laughter than Phoebe throughout the entire show, but he also gets way more lines throughout the show, so it would be hard to say that he’s actually funnier than Phoebe. It’s also interesting to note that Chandler actually has more funny lines than Joey. It’s just that when Joey says something funny, the audience laughs longer than they do for Chandler (by 6% on average!).
