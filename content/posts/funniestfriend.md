@@ -97,3 +97,7 @@ I suspected Joey would do well. The best part about Joey being the funniest char
 ![Joey doesn't share food](https://media.giphy.com/media/llToceLTKQj0R1Asid/giphy.gif)
 
 No matter how you slice the data, these rankings pretty much hold. One exception is that Ross generates more laughter than Phoebe throughout the entire show, but he also gets way more lines throughout the show, so it would be hard to say that he’s actually funnier than Phoebe. It’s also interesting to note that Chandler actually has more funny lines than Joey. It’s just that when Joey says something funny, the audience laughs longer than they do for Chandler (by 6% on average!).
+
+{{< rawhtml >}}
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jsanford9292/7.embed?showlink=false" height="525" width="100%"></iframe>
+{{< /rawhtml >}}
