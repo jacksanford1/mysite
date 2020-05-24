@@ -32,9 +32,9 @@ The award for the longest continuous laughter goes to Joey. Joey made the audien
 
 ![Joey chugging milk](https://media.giphy.com/media/BLZVQ73Gl53Ak/giphy.gif)
 
-The award for the funniest episode goes to “The One Where the Stripper Cries” (S10E11). I immediately rewatched this episode when I found out and it definitely lives up to the hype. What could be better than a Danny DeVito guest appearance where he “strips” in a cop outfit for Phoebe’s bachelorette party? But there’s more! The episode is full of high school and college flashbacks starring “fat Monica”, Rachel’s full-bodied nose, and Chandler’s hairstyle which...I can't describe so just see below. Not to mention we find out Ross kissed Monica in college! And to top it off, Joey goes on a game show and gives a performance that only Joey could be capable of.
+The award for the funniest episode goes to “The One Where the Stripper Cries” (S10E11). I immediately rewatched this episode when I found out and it definitely lives up to the hype. The episode is full of high school and college flashbacks starring “fat Monica”, Rachel’s full-bodied nose, and ridiculous hairstyles all around. Not to mention we find out Ross kissed Monica in college! Joey also gets on a game show and gives a performance that only Joey could be capable. But the real kicker is Danny DeVito's outrageous guest appearance as the stripper at Phoebe's bachelorette party.
 
-![Chandler hairstyle](https://media.giphy.com/media/113PoJxEaRxKbm/giphy.gif)
+![Phoebe's bachelorette](https://media.giphy.com/media/jObAn1DPmadtJSPoGT/giphy.gif)
 
 In contrast, the least funny episode turns out to be “The One with the Invitation” (S4E21). This was a heavier episode that flashed back through the highs and lows of Ross and Rachel’s entire relationship up to that point. Ross was about to marry Emily in England and Rachel had to wrestle with whether she wanted to attend the wedding or not (we all remember how that turns out).
 
