@@ -28,7 +28,7 @@ I only captured spoken lines in this analysis. That means characters don’t alw
 
 ![Phoebe hitting Joey](https://media.giphy.com/media/f5S3nLo8j2TlkGLvMp/giphy.gif)
 
-If you’re wondering how artificial intelligence can possibly figure out who says something funny, [here’s](https://jacksanford.me) my explanation of the technical aspects of the project.
+If you’re wondering how artificial intelligence can possibly figure out who says something funny, [here’s](https://jacksanford.me) (coming soon) my explanation of the technical aspects of the project.
 
 In case you were hoping to stay awake instead, here’s a quick demo video showing what it looks like:
 
