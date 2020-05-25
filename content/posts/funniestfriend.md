@@ -4,11 +4,15 @@ date: 2020-05-20T18:43:59-07:00
 draft: false
 ---
 
-I’d like to start by giving a shoutout to quarantine. Without quarantine, one of mankind’s great mysteries might still be left unsolved: Who is truly the funniest friend in Friends?
+We live in uncertain times.
 
-Once you ask yourself that question, it never leaves your thoughts.
+We don't know when we'll be able to get a haircut next. We don't know when we can sit down at our favorite restaurant again. We don't know if we'll ever be able to mosh at another Korn concert. But over the course of the last few weeks, there is one uncertainty that I have found less tolerable than all the rest combined:
 
-That’s what happened to me a few weeks ago. And so I did the only rational thing I could: I decided to harness the cutting edge powers of artificial intelligence to find out if Phoebe's non-sequiturs are funnier than Ross's dinosaur jokes.
+We don't know who the funniest friend in the hit 90's sitcom "Friends" is.
+
+Once you realize you've been living your life with such a gaping hole in the core of your being, you can never go back.
+
+That's why I decided to make it my mission to harness the cutting edge powers of artificial intelligence and find out if Phoebe's quirky non-sequiturs are funnier than Ross's dinosaur jokes.
 
 **Fair warning: Prepare to be surprised!**
 
@@ -16,7 +20,7 @@ That’s what happened to me a few weeks ago. And so I did the only rational thi
 
 #### Caveat #1
 
-Humor is relative. What I find funny you may not and vice versa. Humor is also hard to measure. Luckily, most Friends scenes were filmed in front of a live audience of 300 people. Naturally, when a lot of these people laugh, I assume something is funny. Now of course, laughter can be edited in post-production. But for the sake of this article, we're going to assume something is funny when the audience laughs.  
+Humor is relative. What I find funny you may not and vice versa. Humor is also hard to measure. Luckily, most Friends scenes were filmed in front of a live audience of 300 people. Naturally, when a lot of these people laugh, I assume something is funny. Now of course, the laughter can be edited. But for the sake of this article, we're going to assume something is funny when the audience laughs.  
 
 #### Caveat #2
 
@@ -24,13 +28,13 @@ I only captured spoken lines in this analysis. That means characters don’t alw
 
 ![Phoebe hitting Joey](https://media.giphy.com/media/f5S3nLo8j2TlkGLvMp/giphy.gif)
 
-If you’re wondering how artificial intelligence can possibly figure out who is funny, [here’s](https://jacksanford.me) my explanation of the technical aspects of the project.
+If you’re wondering how artificial intelligence can possibly figure out who says something funny, [here’s](https://jacksanford.me) my explanation of the technical aspects of the project.
 
 In case you were hoping to stay awake instead, here’s a quick demo video showing what it looks like:
 
 {{< youtube ZacUiCF7ecc >}}
 
-First a couple appetizers:
+Before we get to the main course, a couple appetizers:
 
 #### Longest Continuous Laughter
 
@@ -40,7 +44,7 @@ This award goes to Joey. Joey made the audience laugh for a full 30 seconds stra
 
 #### Funniest Episode
 
-The award for the funniest episode goes to “The One Where the Stripper Cries” (S10E11). I immediately rewatched this episode when I discovered this and it definitely lives up to the hype. The episode is full of high school and college flashbacks starring “fat Monica”, Rachel’s "real" nose, and ridiculous hairstyles all around. Not to mention we find out Ross kissed Monica in college! Meanwhile Joey gets on a game show and gives a performance that only Joey could be capable of. But what puts this episode over the edge is Danny DeVito's outrageous guest appearance as the stripper at Phoebe's bachelorette party.
+The award for the funniest episode goes to “The One Where the Stripper Cries” (S10E11). I immediately rewatched this episode when I discovered this and it definitely lives up to the hype. The episode is full of high school and college flashbacks starring “fat Monica”, Rachel’s "real" nose, and ridiculous hairstyles all around. Not to mention we find out Ross kissed Monica in college! Meanwhile Joey gets on a game show and gives a performance that only Joey could be capable of. But what puts this episode over the top is Danny DeVito's outrageous guest appearance as the stripper at Phoebe's bachelorette party.
 
 ![Phoebe's bachelorette](https://media.giphy.com/media/jObAn1DPmadtJSPoGT/giphy.gif)
 
@@ -52,16 +56,16 @@ In contrast, the episode with the least amount of laughter turns out to be “Th
 
 #### Funniest Season
 
-In terms of the funniest season, the results are quite interesting (possibly incriminating?). As you can see in the chart below, the amount of laughter per season tends to keep going up as the show progressed. Were seasons 9 and 10 really THAT much funnier than seasons 1 and 2? I’ll let you decide for yourself. But this could point to the producers becoming more liberal with their inclusion of laughter as the show went on. Let's look at the glass half-full and say the writing simply got better as the show went on!
+In terms of the funniest season, the results are quite interesting (some might even say incriminating). As you can see in the chart below, the amount of laughter per season tended to keep going up as the show progressed. Were seasons 9 and 10 really THAT much funnier than seasons 1 and 2? I’ll let you decide for yourself. But this could point to the producers becoming more liberal with their inclusion of laughter as the show went on. Let's look at the glass half-full and say the writing and the chemistry simply got better as the show went on!
 
 {{< rawhtml >}}
   <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jsanford9292/4.embed?showlink=false" height="525" width="100%">
   </iframe>
 {{< /rawhtml >}}
 
-Now for the main course:
+Now, what you've all been waiting for:
 
-#### Funniest Friend in Friends
+#### The Funniest Friend in Friends
 
 The natural thing to do would be to see which character generated the most laughter and declare them the funniest. But I think this is unfair. Some characters (ahem Rachel and Ross) speak WAY more lines than other characters (poor Phoebe).
 
@@ -72,7 +76,7 @@ The natural thing to do would be to see which character generated the most laugh
 
 To level the playing field, we will look at the average laughter generated per line by each character.
 
-Here are the results you've been waiting for:
+As promised, here are the results:
 
 #### 6th place: Monica
 
@@ -110,10 +114,16 @@ I suspected Joey would do well. The best part about Joey being the funniest char
 
 ![Joey doesn't share food](https://media.giphy.com/media/llToceLTKQj0R1Asid/giphy.gif)
 
-So there you have it!
-
-No matter how you slice the data, these rankings pretty much hold. One thing to note is that Ross generates more laughter than Phoebe throughout the entire show, but he also gets way more lines throughout the show, so it would be hard to say that he’s actually funnier than Phoebe. It’s also interesting that Chandler has more lines that are followed by laughter than Joey. It’s just that when Joey says something funny, the audience laughs longer than they do for Chandler (by 6% on average!).
+No matter how you slice the data, these rankings pretty much hold.
 
 {{< rawhtml >}}
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jsanford9292/7.embed?showlink=false" height="525" width="100%"></iframe>
 {{< /rawhtml >}}
+
+One thing to note is that Ross actually generates more laughter than Phoebe throughout the entire show. But he also gets way more lines throughout the show, so it wouldn't seem right to say he's funnier than Phoebe. On a per-line basis, Phoebe is much funnier.
+
+It’s also interesting that Chandler has more lines that are followed by laughter than Joey. It’s just that when Joey says something funny, the audience laughs longer than they do for Chandler (by 6% on average!).
+
+So there you have it. Go ahead and check one more uncertainty off your list. What a productive day you're having!
+
+![Closure](https://media.giphy.com/media/eMsCxr6w35vjfI4zl5/giphy.gif)
