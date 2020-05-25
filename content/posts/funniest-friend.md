@@ -1,6 +1,6 @@
 ---
 title: "The Funniest Friend in Friends"
-date: 2020-05-20T18:43:59-07:00
+date: 2020-05-25T16:14:24-07:00
 draft: false
 ---
 
@@ -8,9 +8,9 @@ We live in uncertain times.
 
 We don't know when we'll be able to get a haircut next. We don't know when we can sit down at our favorite restaurant again. We don't know if we'll ever be able to mosh at another Korn concert. But over the course of the last few weeks, there is one uncertainty that I have found less tolerable than all the rest combined:
 
-We don't know who the funniest friend in the hit 90's sitcom "Friends" is.
+We don't know who the funniest "Friend" in the hit 90's sitcom "Friends" is.
 
-Once you realize you've been living your life with such a gaping hole in the core of your being, you can never go back.
+Once you realize you've been living your life with such a gaping hole in your knowledge base, you can never go back.
 
 That's why I decided to make it my mission to harness the cutting edge powers of artificial intelligence and find out if Phoebe's quirky non-sequiturs are funnier than Ross's dinosaur jokes.
 
@@ -20,11 +20,11 @@ That's why I decided to make it my mission to harness the cutting edge powers of
 
 #### Caveat #1
 
-Humor is relative. What I find funny you may not and vice versa. Humor is also hard to measure. Luckily, most Friends scenes were filmed in front of a live audience of 300 people. Naturally, when a lot of these people laugh, I assume something is funny. Now of course, the laughter can be edited. But for the sake of this article, we're going to assume something is funny when the audience laughs.  
+Humor is relative. What I find funny you may not and vice versa. Humor is also hard to measure. Luckily, most Friends scenes were filmed in front of a live audience of 300 people. Naturally, when a lot of these people laugh, I assume something is funny. Now of course, laughter can be edited. But for the sake of this article, we're going to assume something is funny when the audience laughs.  
 
 #### Caveat #2
 
-I only captured spoken lines in this analysis. That means characters don’t always get credit for their non-verbal humor. Fortunately, less than 3% of the laughter in the show is due to non-verbal cues.
+I only captured spoken lines in this analysis. That means characters don’t always get credit for their non-verbal humor. Fortunately, less than 3% of the laughter in the show is purely non-verbal.
 
 ![Phoebe hitting Joey](https://media.giphy.com/media/f5S3nLo8j2TlkGLvMp/giphy.gif)
 
@@ -67,7 +67,7 @@ Now, what you've all been waiting for:
 
 #### The Funniest Friend in Friends
 
-The natural thing to do would be to see which character generated the most laughter and declare them the funniest. But I think this is unfair. Some characters (ahem Rachel and Ross) speak WAY more lines than other characters (poor Phoebe).
+The natural thing to do would be to see which character generated the most laughter throughout all 10 seasons and declare them the funniest. But I think this is unfair. Some characters (ahem Rachel and Ross) speak WAY more lines than other characters (poor Phoebe).
 
 {{< rawhtml >}}
   <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jsanford9292/1.embed?showlink=false" height="525" width="100%">
@@ -80,37 +80,37 @@ As promised, here are the results:
 
 #### 6th place: Monica
 
-Is anyone surprised here? Monica tends to be the “responsible” one who keeps things on track. She usually has her hands full correcting the foibles of her more hapless friends and keeping her nice china from breaking. To her credit, everyone realizes this and Ross and Rachel even admit they would allow Monica to raise their child solo but not Chandler in "The One with Rachel's Other Sister." Every friend group needs a Monica.
+Is anyone surprised here? Monica tends to be the “responsible” one who keeps things on track. She usually has her hands full correcting the foibles of her more hapless friends and keeping her nice china from breaking. To her credit, everyone realizes this and Ross and Rachel even admit they would ONLY allow Chandler and Monica to raise their child if Monica is in the picture ("The One with Rachel's Other Sister"). Every friend group needs a Monica.
 
 ![Fat Monica](https://media.giphy.com/media/lPpXrXL5rysS6eoafb/giphy.gif)
 
 #### 5th place: Rachel
 
-I’m going to be honest, this one surprised me. Early in the series, it seemed like Rachel was behind so many punch lines. She was introduced to us as a runaway “daddy’s girl” and watching her deal with realities like making coffee and getting “one of those job things” was immensely entertaining. But her saga with Ross soon became her biggest storyline and apparently she got more serious.
+This one surprised me. Early in the series, it seemed like Rachel was behind so many punch lines. She was introduced to us as a runaway “daddy’s girl” and watching her deal with realities like making coffee and getting “one of those job things” was immensely entertaining. But I guess as things became more serious with Ross, she became more serious too.
 
 ![Rachel baby](https://media.giphy.com/media/WP2Ht48qtGi0kungbK/giphy.gif)
 
 #### 4th place: Ross
 
-This almost seems high to me! Ross tends to be on the more serious side of things (he's a paleontology professor after all) and tends to take things pretty seriously most of the time. He definitely has a goofy side and loves his nerdy jokes but he and Rachel were in tumultuous romantic situations throughout the series so it makes sense that they would have more “serious” lines.
+It turns out the two "main" characters of the show (Ross and Rachel) aren't that funny! Granted Ross does tend to take things pretty literally most of the time and he is a paleontology professor after all. He definitely has a goofy side and loves his nerdy jokes but he and Rachel were involved in a lot of the serious storylines over the course of the show. So it makes sense that they weren't always joking around.
 
 ![Ross fajitas](https://media.giphy.com/media/H7IA7tNxNnCMdhhZPy/giphy.gif)
 
 #### 3rd place: Phoebe
 
-Phoebe and the 2nd place character are so close! There’s a very big gap between Phoebe and Ross so I officially declare Phoebe to be a really funny character. It’s unfortunate that she didn’t get as many lines as the other characters but it’s true that she nearly always lived away from the group. That said, she was a constant source of comedic relief with her “alternative” remedies and street-smart roots.
+Phoebe and 2nd place nearly tied! There’s actually a very big gap between Phoebe and Ross so I officially declare Phoebe a really funny character. It’s unfortunate that she didn’t get as many lines as the other characters but it’s true that she nearly always lived far away from the group. That said, she was a constant source of comedic relief with her alternative remedies and "street-smart" upbringing.
 
 ![Phoebe mugging Ross](https://media.giphy.com/media/S3oQKsHTcLn6BcHk5j/giphy.gif)
 
 #### 2nd place: Chandler
 
-I had no idea where Chandler would fall. He’s definitely a funny guy but his humor is a little dry, possibly cynical, compared to the rest of the group. Chandler seems like the type of guy who is not directly engaged in a conversation but is always looking for a funny interpretation of what someone else said.  But he tends to keep people in check and he certainly knows how to lighten the mood.
+I wasn't sure where Chandler would fall. But looking back it does seem like Chandler is always waiting to find the comedy in a conversation. While his humor can often be self-deprecating and sometimes even cynical, he seems to have the ability to bring levity to even the most serious moments on the show. Maybe that's why he and Monica were such a good match!
 
 ![Chandler makes jokes](https://media.giphy.com/media/RlNkhrVCaXMnGiG0ZN/giphy.gif)
 
 #### 1st place: Joey
 
-I suspected Joey would do well. The best part about Joey being the funniest character is that he doesn’t even try to tell a lot of jokes. Most of his humor isn’t really intentional. He kind of innocently misinterprets things and we sort of laugh with him, sort of laugh at him. But I honestly have a hard time remembering Joey lines that aren’t hilarious. And his facial expressions are one-of-a-kind.
+I suspected Joey would do well. The best part about Joey being the funniest character is that he's not even trying to be funny most of the time. A lot of his humor isn't really intentional. Yes we all know that maybe Joey is a little "slower" than the rest. But he has an innocent naiveté that makes his comments both hilarious and genuine at the same time. I have a hard time remembering Joey lines that aren't funny.
 
 ![Joey doesn't share food](https://media.giphy.com/media/llToceLTKQj0R1Asid/giphy.gif)
 
@@ -122,8 +122,8 @@ No matter how you slice the data, these rankings pretty much hold.
 
 One thing to note is that Ross actually generates more laughter than Phoebe throughout the entire show. But he also gets way more lines throughout the show, so it wouldn't seem right to say he's funnier than Phoebe. On a per-line basis, Phoebe is much funnier.
 
-It’s also interesting that Chandler has more lines that are followed by laughter than Joey. It’s just that when Joey says something funny, the audience laughs longer than they do for Chandler (by 6% on average!).
+It’s also interesting that Chandler has more lines that are followed by laughter than Joey. It’s just that when Joey says something funny, the audience laughs longer than they do for Chandler's lines (by 6% on average!).
 
-So there you have it. Go ahead and check one more uncertainty off your list. What a productive day you're having!
+So there you have it. Go ahead and check one more uncertainty off your list. Progress! Now for that Korn concert...
 
 ![Closure](https://media.giphy.com/media/eMsCxr6w35vjfI4zl5/giphy.gif)
