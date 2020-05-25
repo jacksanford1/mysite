@@ -8,7 +8,7 @@ We live in uncertain times.
 
 We don't know when we'll be able to get a haircut next. We don't know when we can sit down at our favorite restaurant again. We don't know if we'll ever be able to mosh at another Korn concert. But over the course of the last few weeks, there is one uncertainty that I have found less tolerable than all the rest combined:
 
-We don't know who the funniest "Friend" in the hit 90's sitcom "Friends" is.
+We don't know who the funniest friend in the hit 90's sitcom "Friends" is.
 
 Once you realize you've been living your life with such a gaping hole in your knowledge base, you can never go back.
 
