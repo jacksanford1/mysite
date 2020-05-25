@@ -76,7 +76,7 @@ The natural thing to do would be to see which character generated the most laugh
 
 To level the playing field, we will look at the average laughter generated per line by each character.
 
-As promised, here are the results:
+Here we go:
 
 #### 6th place: Monica
 
