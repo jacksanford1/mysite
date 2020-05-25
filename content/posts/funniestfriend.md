@@ -22,9 +22,9 @@ Second, I only captured spoken lines in this analysis. That means characters don
 
 If you’re wondering how AI can possibly figure out who is funny, [here’s](https://jacksanford.me) my explanation of the technical aspects of the project.
 
-In case you were hoping to stay awake instead, here’s a cool demo video showing what it looks like:
+In case you were hoping to stay awake instead, here’s a demo video showing what it looks like:
 
-[demo video here]
+{{< youtube ZacUiCF7ecc >}}
 
 Now for the awards ceremony.
 
