@@ -30,7 +30,7 @@ Before we get to the main course, a couple appetizers:
 
 ### Longest Continuous Laughter {#back}
 
-This award goes to Joey. Joey made the audience laugh for a full 30 seconds straight when going through his fake resume skills with Phoebe in "The One Where Joey Speaks French." He wrote that he could chug a gallon of milk in under 10 seconds on his resume. Phoebe called him out. He immediately went to the fridge and grabbed a gallon of milk and proceeded to “chug” (i.e. spill down the front of his shirt) for a full 30 seconds. Peak Joey moment.
+This award goes to Joey. Joey made the audience laugh for a full 30 seconds straight when going through his fake resume skills with Phoebe in "The One Where Joey Speaks French" (S10E13). He wrote that he could chug a gallon of milk in under 10 seconds on his resume. Phoebe called him out. He immediately went to the fridge and grabbed a gallon of milk and proceeded to “chug” (i.e. spill down the front of his shirt) for a full 30 seconds. Peak Joey moment.
 
 ![Joey chugging milk](https://media.giphy.com/media/BLZVQ73Gl53Ak/giphy.gif)
 
@@ -84,13 +84,13 @@ This one surprised me. Early in the series, it seemed like Rachel was behind so 
 
 ### 4th place: Ross
 
-It turns out the two "main" characters of the show (Ross and Rachel) aren't that funny! Granted Ross does tend to take things pretty literally most of the time and he is a paleontology professor after all. He definitely has a goofy side and loves his nerdy jokes but he and Rachel were involved in a lot of the serious storylines over the course of the show. So it makes sense that they weren't always joking around.
+It turns out the two biggest talkers on the show (Ross and Rachel) aren't that funny! Granted Ross does tend to take things pretty literally most of the time and he is a paleontology professor after all. He definitely has a goofy side and loves his nerdy jokes but he and Rachel were involved in a lot of the serious storylines over the course of the show. So it makes sense that they weren't always joking around.
 
 ![Ross fajitas](https://media.giphy.com/media/H7IA7tNxNnCMdhhZPy/giphy.gif)
 
 ### 3rd place: Phoebe
 
-Phoebe and 2nd place nearly tied! There’s actually a very big gap between Phoebe and Ross so I officially declare Phoebe a really funny character. It’s unfortunate that she didn’t get as many lines as the other characters but it’s true that she nearly always lived far away from the group. That said, she was a constant source of comedic relief with her alternative remedies and "street-smart" upbringing.
+Phoebe missed getting 2nd place by a hair! There’s actually a very big gap between Phoebe and Ross so I officially declare Phoebe a really funny character. It’s unfortunate that she didn’t get as many lines as the other characters but it’s true that she often lived far away from the group. That said, she was a constant source of comedic relief with her alternative remedies and "street-smart" upbringing.
 
 ![Phoebe mugging Ross](https://media.giphy.com/media/S3oQKsHTcLn6BcHk5j/giphy.gif)
 
