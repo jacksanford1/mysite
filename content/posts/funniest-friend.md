@@ -18,25 +18,17 @@ That's why I decided to make it my mission to harness the cutting edge powers of
 
 ![Ross dinosaur](https://media.giphy.com/media/KZYuiED8QGbQ8aPF3c/giphy.gif)
 
-### Caveat #1
-
-Humor is relative. What I find funny you may not and vice versa. Humor is also hard to measure. Luckily, most Friends scenes were filmed in front of a live audience of 300 people. Naturally, when a lot of these people laugh, I assume something is funny. Now of course, laughter can be edited. But for the sake of this article, we're going to assume something is funny when the audience laughs.  
-
-### Caveat #2
-
-I only captured spoken lines in this analysis. That means characters don’t always get credit for their non-verbal humor. Fortunately, less than 3% of the laughter in the show is purely non-verbal.
-
-![Phoebe hitting Joey](https://media.giphy.com/media/f5S3nLo8j2TlkGLvMp/giphy.gif)
-
 If you’re wondering how artificial intelligence can possibly figure out who says something funny, [here’s](https://jacksanford.me/posts/tech-post/) my explanation of the technical aspects of the project.
 
 In case you were hoping to stay awake instead, here’s a quick demo video showing what it looks like:
 
 {{< youtube ZacUiCF7ecc >}}
 
+There are two caveats to this approach that I explain at the [end](#caveats) of the article.
+
 Before we get to the main course, a couple appetizers:
 
-### Longest Continuous Laughter
+### Longest Continuous Laughter {#back}
 
 This award goes to Joey. Joey made the audience laugh for a full 30 seconds straight when going through his fake resume skills with Phoebe in "The One Where Joey Speaks French." He wrote that he could chug a gallon of milk in under 10 seconds on his resume. Phoebe called him out. He immediately went to the fridge and grabbed a gallon of milk and proceeded to “chug” (i.e. spill down the front of his shirt) for a full 30 seconds. Peak Joey moment.
 
@@ -110,7 +102,7 @@ I wasn't sure where Chandler would fall. But looking back it does seem like Chan
 
 ### 1st place: Joey
 
-I suspected Joey would do well. The best part about Joey being the funniest character is that he's not even trying to be funny most of the time. A lot of his humor isn't really intentional. Yes we all know that maybe Joey is a little "slower" than the rest. But he has an innocent naiveté that makes his comments both hilarious and genuine at the same time. I have a hard time remembering Joey lines that aren't funny.
+I suspected Joey would do well. The best part about Joey being the funniest character is that he's not even trying to be funny most of the time. A lot of his humor isn't really intentional. Yes we all know that maybe Joey is a little "slower" than the rest. But he has an innocent naiveté that makes his comments both hilarious and genuine at the same time. It's hard to remember a Joey line that isn't funny.
 
 ![Joey doesn't share food](https://media.giphy.com/media/llToceLTKQj0R1Asid/giphy.gif)
 
@@ -127,3 +119,25 @@ It’s also interesting that Chandler has more lines that are followed by laught
 So there you have it. Go ahead and check one more uncertainty off your list. Progress! Now for that Korn concert...
 
 ![Closure](https://media.giphy.com/media/eMsCxr6w35vjfI4zl5/giphy.gif)
+
+### Bonus chart
+
+I found this chart too interesting not to include. Joey wasn't the funniest character until Season 5! And Monica has been on an absolute tear since her very serious Season 1 performance!
+
+{{< rawhtml >}}
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jsanford9292/14.embed?showlink=false" height="525" width="100%"></iframe>
+{{< /rawhtml >}}
+
+### Appendix
+
+#### Caveat #1 {#caveats}
+
+Humor is relative. What I find funny you may not and vice versa. Humor is also hard to measure. Luckily, most Friends scenes were filmed in front of a live audience of 300 people. Naturally, when a lot of these people laugh, I assume something is funny. Now of course, laughter can be edited. But for the sake of this article, we're going to assume something is funny when the audience laughs.  
+
+#### Caveat #2
+
+I only captured spoken lines in this analysis. That means characters don’t always get credit for their non-verbal humor. Fortunately, less than 3% of the laughter in the show is purely non-verbal.
+
+Alright [back](#back) to the article.
+
+![Phoebe hitting Joey](https://media.giphy.com/media/f5S3nLo8j2TlkGLvMp/giphy.gif)
