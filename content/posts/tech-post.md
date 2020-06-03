@@ -2,6 +2,7 @@
 title: "Using ML to Find the Funniest Friend in Friends"
 date: 2020-05-30T23:07:39-07:00
 draft: false
+disable_comments: false
 ---
 
 After finishing Andrew Ng's machine learning courses, I decided it was time to try a project of my own. Part of what I like about ML is how it can be applied to almost anything. With that in mind, I wanted to try a project that hadn't been done before.
