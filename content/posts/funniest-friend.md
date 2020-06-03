@@ -2,6 +2,7 @@
 title: "The Funniest Friend in Friends"
 date: 2020-05-25T16:14:24-07:00
 draft: false
+disqus: true
 ---
 
 We live in uncertain times.

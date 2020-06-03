@@ -7,6 +7,8 @@
         {{- end -}}
     </header>
     {{- .Content -}}
-    {{ template "_internal/disqus.html" . }}
+    {{if .Params.disqus}}
+        {{ template "_internal/disqus.html" . }}
+    {{end}}
 </article>
 {{ end }}
