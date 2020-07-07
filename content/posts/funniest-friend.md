@@ -1,13 +1,13 @@
 ---
 title: "The Funniest Friend in Friends"
-date: 2020-05-25T16:14:24-07:00
+date: 2020-07-06T16:14:24-07:00
 draft: false
 disqus: true
 ---
 
 We live in uncertain times.
 
-We don't know when we'll be able to get a haircut next. We don't know when we can sit down at our favorite restaurant again. We don't know if we'll ever be able to mosh at another Korn concert. But over the course of the last few weeks, there is one uncertainty that I have found less tolerable than all the rest combined:
+We don't know when we're going back to the office or school. We don't know when we'll be able to sit inside at a restaurant. We don't even know when we'll be able to mosh at a Korn concert again. But over the course of the last few weeks, there is one uncertainty that I find less tolerable than all the rest:
 
 We don't know who the funniest friend in the hit 90's sitcom "Friends" is.
 
@@ -123,7 +123,7 @@ So there you have it. Go ahead and check one more uncertainty off your list. Pro
 
 ### Bonus chart
 
-I found this chart too interesting not to include. Joey wasn't the funniest character until Season 5! And Monica has been on an absolute tear since her very serious Season 1 performance!
+Look how the humes have changed over time. Joey wasn't the funniest character until Season 5! And Monica has been on an absolute tear since her very serious Season 1 performance!
 
 {{< rawhtml >}}
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jsanford9292/14.embed?showlink=false" height="525" width="100%"></iframe>
