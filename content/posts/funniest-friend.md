@@ -123,7 +123,7 @@ So there you have it. Go ahead and check one more uncertainty off your list. Pro
 
 ### Bonus chart
 
-Look how the humes have changed over time. Joey wasn't the funniest character until Season 5! And Monica has been on an absolute tear since her very serious Season 1 performance!
+See who has gotten funnier over time. Joey wasn't the funniest character until Season 5! And Monica has been on an absolute tear since her very serious Season 1 performance!
 
 {{< rawhtml >}}
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jsanford9292/14.embed?showlink=false" height="525" width="100%"></iframe>
