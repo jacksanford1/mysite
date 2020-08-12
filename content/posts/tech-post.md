@@ -1,6 +1,6 @@
 ---
 title: "Using ML to Find the Funniest Friend in Friends"
-date: 2020-07-03T23:07:39-07:00
+date: 2020-04-03T23:07:39-07:00
 draft: false
 disqus: true
 ---
