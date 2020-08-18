@@ -9,7 +9,7 @@ After finishing Andrew Ng's machine learning courses, I decided it was time to t
 
 I settled on finding the funniest friend in Friends because it seemed like an unanswered question and because it's something that my non-technical friends might find interesting.
 
-In order to find the funniest friend in Friends, we need to know which character generates the most laughter. There are two caveats that I explain in the [fun article](https://jacksanford.me/posts/funniest-friend/) (which you should check out if you haven't yet). The first is that we assume audience laughter (and length of laughter) maps to how funny a spoken line is. The second caveat is that we can’t capture purely non-verbal humor, which turns out to be ~3% of the show's laughter (this is a rough calculation based on laughter’s proximity to spoken lines).
+In order to find the funniest friend in Friends, we need to know which character generates the most laughter (per line). There are two caveats that I explain in the [results article](https://jacksanford.me/posts/funniest-friend/) (which you should check out if you haven't yet). The first is that we assume audience laughter (and length of laughter) maps to how funny a spoken line is. The second caveat is that we can’t capture purely non-verbal humor, which turns out to be ~3% of the show's laughter (this is a rough calculation based on laughter’s proximity to spoken lines).
 
 There are three main parts to figuring out which character is responsible for which laughter. First is identifying who is speaking and when. Second is identifying laughter and when it occurs. Third is piecing together the first two parts to figure out who is responsible for each instance of laughter.
 
@@ -108,9 +108,9 @@ Finally we can train the model!
 
 When I was experimenting with different hyper parameters and layer combinations I found that using 15 epochs was more than enough to figure out if the model would perform better or worse than past models. This took between 15-30 mins for most combinations. For the final model I decided to use, I trained for 100 epochs which took about 3.5 hours on a GPU.
 
-The best model was able to identify laughter with 95% accuracy. I tried to do better than 95% for a long time. But what I eventually figured out was that a lot of the error was my own fault (i.e. human error). I didn’t realize this until I went back and labeled the laughter for an episode that I had already labeled a week prior. I then compared the labels and found that they only had 97% overlap! Meaning that the “human” level error for identifying laughter in this situation is ~97%, so it is unreasonable to expect a machine to do better than 97%. In that light, 95% for the algorithm looks like a more positive outcome.
+The best model was able to identify laughter with 95% accuracy. I tried to do better than 95% for a long time. But what I eventually figured out was that a lot of the error was my own fault (i.e. human error). I didn’t realize this until I went back and labeled the laughter for an episode that I had already labeled a week prior. I then compared the labels and found that they only had 97% overlap! Meaning that the “human” level accuracy for identifying laughter in this situation is ~97%, so it is unreasonable to expect a machine to do better than 97%. In that light, 95% for the algorithm looks like a more positive outcome.
 
-Even with 95% accuracy, the model almost never misses a laughter instance. The 5% error tends to come from the very beginning or end of a laughter instance where it often less clear when laughter "officially" begins or ends.
+Even with 95% accuracy, the model almost never misses a laughter instance. The 5% error tends to come from the very beginning or end of a laughter instance where it is often less clear when laughter "officially" begins or ends.
 
 Once we have the trained model, I use it to predict laughter for all the non-labeled episodes. I did this outside of the Kaggle environment because of the massive amount of data we are predicting (all 10 seasons of audio effectively). Notebook found [here](https://github.com/jacksanford1/friends/blob/master/friendspredict.ipynb).
 
@@ -136,7 +136,7 @@ SRT files (subtitles files) are just text files with a standardized format for d
 
 Once we can see that the labels are working well in practice, all that’s left is to calculate the answer to our original question.
 
-Like I mention in the [fun article](https://jacksanford.me/posts/funniest-friend/), it would be unfair to simply add up the seconds of laughter for each character across all 10 seasons to see who is funniest. That’s because some characters have many more lines than others. So I believe a more fair way to calculate the funniest character would be to see how much laughter follows each line spoken by a character on average. The character with the most seconds of laughter following each of their lines on average, wins.
+Like I mention in the [results article](https://jacksanford.me/posts/funniest-friend/), it would be unfair to simply add up the seconds of laughter for each character across all 10 seasons to see who is funniest. That’s because some characters have many more lines than others. So I believe a more fair way to calculate the funniest character would be to see how much laughter follows each line spoken by a character on average. The character with the most seconds of laughter following each of their lines on average, wins.
 
 {{< rawhtml >}}
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jsanford9292/7.embed?showlink=false" height="525" width="100%"></iframe>
@@ -158,4 +158,4 @@ On the other hand, Chandler and Phoebe's intervals DO overlap which means we can
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jsanford9292/12.embed?showlink=false" height="525" width="100%"></iframe>
 {{< /rawhtml >}}
 
-I hope you enjoyed this walkthrough. If you're working on a similar project, feel free to hit me up. Or if you have questions about any methods in this article or in my notebooks, please reach out as well. I would especially enjoy suggestions on improvements to this project! You can find my contact here [coming soon].
+I hope you enjoyed this walkthrough. If you're working on a similar project, feel free to hit me up. Or if you have questions about any methods in this article or in my notebooks, please reach out as well. I would especially enjoy suggestions on improvements to this project! You can find my contact [here](https://jacksanford.me/about/).

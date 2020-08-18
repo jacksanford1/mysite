@@ -31,13 +31,13 @@ Before we get to the main course, a couple appetizers:
 
 ### Longest Continuous Laughter {#back}
 
-This award goes to Joey. Joey made the audience laugh for a full 30 seconds straight when going through his fake resume skills with Phoebe in "The One Where Joey Speaks French" (S10E13). He wrote that he could chug a gallon of milk in under 10 seconds on his resume. Phoebe called him out. He immediately went to the fridge and grabbed a gallon of milk and proceeded to “chug” (i.e. spill down the front of his shirt) for a full 30 seconds. Peak Joey moment.
+This award goes to Joey. Joey made the audience laugh for a full 30 seconds when going through his fake resume skills with Phoebe in "The One Where Joey Speaks French" (S10E13). He wrote that he could chug a gallon of milk in under 10 seconds on his resume. Phoebe called him out. He immediately went to the fridge, grabbed a gallon of milk and proceeded to “chug” (i.e. spill down the front of his shirt) for 30 seconds straight. Peak Joey moment.
 
 ![Joey chugging milk](https://media.giphy.com/media/BLZVQ73Gl53Ak/giphy.gif)
 
 ### Funniest Episode
 
-The award for the funniest episode goes to “The One Where the Stripper Cries” (S10E11). I immediately rewatched this episode when I discovered this and it definitely lives up to the hype. The episode is full of high school and college flashbacks starring “fat Monica”, Rachel’s "real" nose, and ridiculous hairstyles all around. Not to mention we find out Ross kissed Monica in college! Meanwhile Joey gets on a game show and gives a performance that only Joey could be capable of. But what puts this episode over the top is Danny DeVito's outrageous guest appearance as the stripper at Phoebe's bachelorette party.
+The award for the funniest episode goes to “The One Where the Stripper Cries” (S10E11). I immediately rewatched this episode when I discovered this and it definitely lives up to the hype. The episode is full of high school and college flashbacks starring “fat Monica”, Rachel’s "real" nose, and ridiculous hairstyles all around. Not to mention we find out Ross kissed Monica in college! Meanwhile Joey gets on a game show and gives a performance that only Joey would be capable of. But what puts this episode over the top is Danny DeVito's outrageous guest appearance as the stripper at Phoebe's bachelorette party.
 
 ![Phoebe's bachelorette](https://media.giphy.com/media/jObAn1DPmadtJSPoGT/giphy.gif)
 
@@ -49,7 +49,7 @@ In contrast, the episode with the least amount of laughter turns out to be “Th
 
 ### Funniest Season
 
-In terms of the funniest season, the results are quite interesting (some might even say incriminating). As you can see in the chart below, the amount of laughter per season tended to keep going up as the show progressed. Were seasons 9 and 10 really THAT much funnier than seasons 1 and 2? I’ll let you decide for yourself. But this could point to the producers becoming more liberal with their inclusion of laughter as the show went on. Let's look at the glass half-full and say the writing and the chemistry simply got better as the show went on!
+In terms of the funniest season, the results are quite interesting (some might even say incriminating). As you can see in the chart below, the amount of laughter per season tended to keep going up as the show progressed. Were seasons 9 and 10 really THAT much funnier than seasons 1 and 2? I’ll let you decide for yourself. But this could point to the producers becoming more liberal with the laughter editing as the show went on. Let's look at the glass half-full and say the writing and the chemistry simply got better as the show went on!
 
 {{< rawhtml >}}
   <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~jsanford9292/4.embed?showlink=false" height="525" width="100%">
@@ -73,7 +73,7 @@ Here we go:
 
 ### 6th place: Monica
 
-Is anyone surprised here? Monica tends to be the “responsible” one who keeps things on track. She usually has her hands full correcting the foibles of her more hapless friends and keeping her nice china from breaking. To her credit, everyone realizes this and Ross and Rachel even admit they would ONLY allow Chandler and Monica to raise their child if Monica is in the picture ("The One with Rachel's Other Sister"). Every friend group needs a Monica.
+Is anyone surprised here? Monica tends to be the “responsible” one who keeps things on track. She usually has her hands full correcting the foibles of her more hapless friends and keeping her nice china from breaking. To her credit, everyone realizes this and Ross and Rachel even admit they would ONLY allow Chandler and Monica to raise their child if Monica is in the picture (S6E13). Every friend group needs a Monica.
 
 ![Fat Monica](https://media.giphy.com/media/lPpXrXL5rysS6eoafb/giphy.gif)
 
@@ -85,25 +85,25 @@ This one surprised me. Early in the series, it seemed like Rachel was behind so 
 
 ### 4th place: Ross
 
-It turns out the two biggest talkers on the show (Ross and Rachel) aren't that funny! Granted Ross does tend to take things pretty literally most of the time and he is a paleontology professor after all. He definitely has a goofy side and loves his nerdy jokes but he and Rachel were involved in a lot of the serious storylines over the course of the show. So it makes sense that they weren't always joking around.
+It turns out the two characters with the most lines (Ross and Rachel) aren't that funny! Granted Ross does tend to take things pretty literally most of the time and he is a paleontology professor after all. He definitely has a goofy side and loves his nerdy jokes but he and Rachel were involved in a lot of the serious storylines over the course of the show. So it makes sense that they weren't always joking around.
 
 ![Ross fajitas](https://media.giphy.com/media/H7IA7tNxNnCMdhhZPy/giphy.gif)
 
 ### 3rd place: Phoebe
 
-Phoebe missed getting 2nd place by a hair! There’s actually a very big gap between Phoebe and Ross so I officially declare Phoebe a really funny character. It’s unfortunate that she didn’t get as many lines as the other characters but it’s true that she often lived far away from the group. That said, she was a constant source of comedic relief with her alternative remedies and "street-smart" upbringing.
+Phoebe missed getting 2nd place by a hair! There’s actually a very big gap between Phoebe and Ross so I officially declare Phoebe to be a really funny character. It’s unfortunate that she didn’t get as many lines as the other characters but it’s true that she often lived far away from the group. That said, she was a constant source of comedic relief with her alternative remedies and "street-smart" upbringing.
 
 ![Phoebe mugging Ross](https://media.giphy.com/media/S3oQKsHTcLn6BcHk5j/giphy.gif)
 
 ### 2nd place: Chandler
 
-I wasn't sure where Chandler would fall. But looking back it does seem like Chandler is always waiting to find the comedy in a conversation. While his humor can often be self-deprecating and sometimes even cynical, he seems to have the ability to bring levity to even the most serious moments on the show. Maybe that's why he and Monica were such a good match!
+Chandler strikes me as a bit cynical sometimes so I wasn't sure where he would fall. But looking back it does seem like Chandler is always waiting to find the comedy in a conversation. While his humor can often be self-deprecating and sometimes pessimistic, he seems to have the ability to bring levity to even the most serious moments on the show. Maybe that's why he and Monica were such a good match!
 
 ![Chandler makes jokes](https://media.giphy.com/media/RlNkhrVCaXMnGiG0ZN/giphy.gif)
 
 ### 1st place: Joey
 
-I suspected Joey would do well. The best part about Joey being the funniest character is that he's not even trying to be funny most of the time. A lot of his humor isn't really intentional. Yes we all know that maybe Joey is a little "slower" than the rest. But he has an innocent naiveté that makes his comments both hilarious and genuine at the same time. It's hard to remember a Joey line that isn't funny.
+Ok, show of hands -- who guessed this from the start? The best part about Joey being the funniest character is that he's not even trying to be funny most of the time. A lot of his humor isn't really intentional. Yes we all know that maybe Joey is a little "slower" than the rest. But he has an innocent naiveté that makes his comments both hilarious and genuine at the same time. It's actually hard to remember Joey lines that aren't funny.
 
 ![Joey doesn't share food](https://media.giphy.com/media/llToceLTKQj0R1Asid/giphy.gif)
 
