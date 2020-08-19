@@ -1,5 +1,5 @@
 ---
-title: "The Funniest Friend in Friends"
+title: "The Funniest Friend in FRIENDS"
 date: 2020-08-17T16:14:24-07:00
 draft: false
 disqus: true
@@ -9,7 +9,7 @@ We live in uncertain times.
 
 We don't know when we're going back to school or the office. We don't know when we'll be able to sit inside at a restaurant. We don't even know when we'll be able to mosh at a Korn concert again. But over the course of the last few weeks, there is one uncertainty that I've found less tolerable than all the rest:
 
-We don't know who the funniest friend in the hit 90's sitcom "Friends" is.
+We don't know who the funniest friend in the hit 90's sitcom "FRIENDS" is.
 
 Once you realize you've been living your life with such a gaping hole in your knowledge base, you can never go back.
 
@@ -58,7 +58,7 @@ In terms of the funniest season, the results are quite interesting (some might e
 
 Now, what you've all been waiting for:
 
-### The Funniest Friend in Friends
+### The Funniest Friend in FRIENDS
 
 The natural thing to do would be to see which character generated the most laughter throughout all 10 seasons and declare them the funniest. But I think this is unfair. Some characters (ahem Rachel and Ross) speak WAY more lines than other characters (poor Phoebe).
 
@@ -133,7 +133,7 @@ See who has gotten funnier over time. Joey wasn't the funniest character until S
 
 #### Caveat #1 {#caveats}
 
-Humor is relative. What I find funny you may not and vice versa. Humor is also hard to measure. Luckily, most Friends scenes were filmed in front of a live audience of 300 people. Naturally, when a lot of these people laugh, I assume something is funny. Now of course, laughter can be edited. But for the sake of this article, we're going to assume something is funny when the audience laughs.  
+Humor is relative. What I find funny you may not and vice versa. Humor is also hard to measure. Luckily, most FRIENDS scenes were filmed in front of a live audience of 300 people. Naturally, when a lot of these people laugh, I assume something is funny. Now of course, laughter can be edited. But for the sake of this article, we're going to assume something is funny when the audience laughs.  
 
 #### Caveat #2
 

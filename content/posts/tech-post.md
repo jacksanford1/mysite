@@ -1,5 +1,5 @@
 ---
-title: "Using ML to Find the Funniest Friend in Friends"
+title: "Using ML to Find the Funniest Friend in FRIENDS"
 date: 2020-08-17T23:07:39-07:00
 draft: false
 disqus: true
@@ -7,9 +7,9 @@ disqus: true
 
 After finishing Andrew Ng's machine learning courses, I decided it was time to try a project of my own. Part of what I like about ML is how it can be applied to almost anything. With that in mind, I wanted to try a project that hadn't been done before.
 
-I settled on finding the funniest friend in Friends because it seemed like an unanswered question and because it's something that my non-technical friends might find interesting.
+I settled on finding the funniest friend in FRIENDS because it seemed like an unanswered question and because it's something that my non-technical friends might find interesting.
 
-In order to find the funniest friend in Friends, we need to know which character generates the most laughter (per line). There are two caveats that I explain in the [results article](https://jacksanford.me/posts/funniest-friend/) (which you should check out if you haven't yet). The first is that we assume audience laughter (and length of laughter) maps to how funny a spoken line is. The second caveat is that we can’t capture purely non-verbal humor, which turns out to be ~3% of the show's laughter (this is a rough calculation based on laughter’s proximity to spoken lines).
+In order to find the funniest friend in FRIENDS, we need to know which character generates the most laughter (per line). There are two caveats that I explain in the [results article](https://jacksanford.me/posts/funniest-friend/) (which you should check out if you haven't yet). The first is that we assume audience laughter (and length of laughter) maps to how funny a spoken line is. The second caveat is that we can’t capture purely non-verbal humor, which turns out to be ~3% of the show's laughter (this is a rough calculation based on laughter’s proximity to spoken lines).
 
 There are three main parts to figuring out which character is responsible for which laughter. First is identifying who is speaking and when. Second is identifying laughter and when it occurs. Third is piecing together the first two parts to figure out who is responsible for each instance of laughter.
 
@@ -18,7 +18,7 @@ The Who and the When
 
 I talked the project over with some friends who know more about ML than I do. They advised me that the first part of the project (who is speaking when) is non-trivial when it comes to voice recognition algorithms. Detecting and differentiating human voices is still a difficult problem for ML. I read some papers and articles and it seemed to confirm my friends’ sentiments. [Here](https://towardsdatascience.com/ai-to-detect-speaker-in-a-speech-a1dae5b597b0) is an example of an article that can identify different human voices with 80-85% accuracy. For my project, I didn't think 80-85% accuracy would be high enough to draw any sort of conclusions about the funniest friend. That said, if you know of a relevant model for this sort of task please reach out!
 
-With voice recognition ML not likely to perform accurately enough, I decided to try some different approaches. Because Friends is so popular, there are [fan-created script files](https://fangj.github.io/friends/) for every episode in the show. These script files tell you who is speaking and what they say:
+With voice recognition ML not likely to perform accurately enough, I decided to try some different approaches. Because FRIENDS is so popular, there are [fan-created script files](https://fangj.github.io/friends/) for every episode in the show. These script files tell you who is speaking and what they say:
 
 ![Script File](/script.png)
 
@@ -126,7 +126,7 @@ We bring in both datasets and format them to be compatible with each other.
 
 Then we use a simple minimization function to decide who caused each instance of laughter. We take the beginning timestamp of the laughter instance and we find the minimum distance to the end of a character line. Whichever character’s line ends closest to the beginning of the laughter (within +/- 3 seconds) is the character to whom we attribute the laughter instance.
 
-Now we have the exact data we need to answer “Who is the Funniest Friend in Friends?”
+Now we have the exact data we need to answer “Who is the Funniest Friend in FRIENDS?”
 
 But first, to make sure everything is working correctly, I create custom subtitles for each episode that will show us the output in real time.
 
