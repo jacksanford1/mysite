@@ -1,9 +1,11 @@
 ---
 title: "The Funniest Friend in FRIENDS"
-date: 2020-08-17T16:14:24-07:00
+date: 2020-08-18T16:14:24-07:00
 draft: false
 disqus: true
 ---
+
+![Milkshakes](/milkshakes.jpg)
 
 We live in uncertain times.
 

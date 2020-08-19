@@ -5,6 +5,8 @@ draft: false
 disqus: true
 ---
 
+![Computer](/computer.jpg)
+
 After finishing Andrew Ng's machine learning courses, I decided it was time to try a project of my own. Part of what I like about ML is how it can be applied to almost anything. With that in mind, I wanted to try a project that hadn't been done before.
 
 I settled on finding the funniest friend in FRIENDS because it seemed like an unanswered question and because it's something that my non-technical friends might find interesting.
