@@ -7,7 +7,7 @@ disqus: true
 
 We live in uncertain times.
 
-We don't know when we're going back to school or the office. We don't know when we'll be able to sit inside at a restaurant. We don't even know when we'll be able to mosh at a Korn concert again. But over the course of the last few weeks, there is one uncertainty that I find less tolerable than all the rest:
+We don't know when we're going back to school or the office. We don't know when we'll be able to sit inside at a restaurant. We don't even know when we'll be able to mosh at a Korn concert again. But over the course of the last few weeks, there is one uncertainty that I've found less tolerable than all the rest:
 
 We don't know who the funniest friend in the hit 90's sitcom "Friends" is.
 
