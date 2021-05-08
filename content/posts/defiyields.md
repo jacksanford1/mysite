@@ -11,19 +11,23 @@ But that’s ok. Here’s why:
 
 ![Financing hard](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif)
 
-Why are interest rates ever positive? Why are people willing to pay for money? Because they think they can earn more than what they’re paying on that money. Basically, if they see an investment opportunity where they can earn 10%, they’re perfectly willing to “pay” 5% to borrow money to invest in that opportunity.
+Why are interest rates ever positive? Why are people willing to pay for money?
+
+Because they think they can earn more than what they’re paying on that money. Basically, if they see an investment opportunity where they can earn 10%, they’re perfectly willing to “pay” 5% to borrow money to invest in that opportunity.
 
 Let’s start with the traditional finance world (“TradFi”).
 
-Interest rates are near 0%, why? Interest rates in TradFi are set by a committee called the Fed. The Fed has decided it reallyyy wants to prevent a recession recently so it has set interest rates at ~0%. How does this prevent a recession? If you can borrow money at 0%, then even if the investment opportunity you see only yields a 3% return, you’ll probably still do it. Investment opportunities can be things like building a new factory or expanding to a new region. This type of activity creates more jobs and economic activity. So the lower the interest rates, the more investment opportunities, the more jobs and economic growth, the less likely a recession becomes. That’s roughly why TradFi interest rates are so low.
+Interest rates are near 0%, why?
 
-On the other hand, DeFi interest rates (also known as yields or APYs) are ~5% and sometimes 10% — why are DeFi yields so high?
+Interest rates in TradFi are set by a committee called the Fed (Federal Reserve). The Fed has decided it reallyyy wants to prevent a recession recently so it has set interest rates at ~0%. How does this prevent a recession? If you can borrow money at 0%, then even if the investment opportunity you see only yields a 3% return, you’ll probably still do it. Investment opportunities can be things like building a new factory or expanding to a new region. This type of activity creates more jobs and economic activity. So the lower the interest rates, the more investment opportunities, the more jobs and economic growth, the less likely a recession becomes. That’s roughly why TradFi interest rates are so low.
+
+On the other hand, DeFi interest rates (also known as yields or APYs) are ~5% and sometimes 10%. Why are DeFi yields so high?
 
 Well, there’s a certain subset of people who believe really strongly that crypto projects are going to play a much bigger role in the future. You can see this belief in the price of things like BTC and ETH. When the price of BTC and ETH rise, it roughly means that more people believe crypto projects will be big and successful in the future. Some of these people think that ETH or BTC will be 20% or 50% or 100% higher in the not-so-distant future. And they’re so convinced of this that they’re willing to borrow money at 5% or 10% in order to be able to “invest” that money into ETH or BTC. That’s why DeFi yields are so high.
 
 Why can’t people borrow money at 0% in TradFi and “invest” in ETH or BTC?
 
-Because credit is not so easy to come by in TradFi. If you’re an average Joe, the only way you can get a 0% loan is if you promise to invest that money in a specific place (like a mortgage on a house). This way, if you stop paying the interest on your loan, the lender (maybe a bank) can take your house as collateral. Most of these TradFi lenders simply won’t give you a 0% loan that you can invest into cryptocurrencies. Because if the cryptocurrency prices go down and you stop paying your loan, the bank can lose their money.
+Because credit is not so easy to come by in TradFi. If you’re an average Joe, the only way you can get a 0% loan is if you promise to invest that money in a specific place (like a mortgage on a house). This way, if you stop paying the interest on your loan, the lender (probably a bank) can take your house as collateral. Most of these TradFi lenders simply won’t give you a 0% loan that you can invest into cryptocurrencies. Because if the cryptocurrency prices go down and you stop paying your loan, the bank can lose their money.
 
 How do people borrow money in DeFi then?
 
@@ -32,7 +36,9 @@ In DeFi, there are no mortgages or credit card loans, etc. The only loan you can
 #### So why are DeFi yields unsustainable?
 
 There are two possible outcomes in the future, both of which cause DeFi yields to revert to “normal" levels:
+
  1. Fewer and fewer people believe crypto will play a big role in the future so no one wants to borrow money at 5% to invest in crypto. This is the "crypto fails" scenario.
+
 2. Crypto continues to grow until it reaches its “big role in the future” as 10% or maybe 100% of the market it is eating. At this point, crypto will enter a “steady-state” and continue to grow roughly along with global GDP growth (1-3%). **Note:** This includes the scenario where crypto eats everything to the point where all economic output flows through crypto or DeFi. This could take a long time, which means DeFi yields could be elevated for a long time.
 
 #### Plot Twist: TradFi yields are also unsustainable
@@ -43,6 +49,6 @@ Here’s why:
 
 TradFi interest rates are ~0%. This rate is almost certainly being artificially suppressed by the Fed (and other central banks). A 0% global interest rate would mean that there are effectively no positive-yielding investment opportunities in the world. It means that nobody sees profit potential in building a new factory or expanding to a new region or even investing in a certain stock. Nobody wants a loan for any reason. This scenario is highly unlikely and not supported by global GDP numbers (showing ~2-3% growth over the last 10 years). It’s almost certain the “natural” TradFi interest rate is something higher than 0%. But because a few central banks can control TradFi’s interest rate, they can set the rate artificially low at 0% or even set negative interest rates.
 
-Even though DeFi yields are unsustainable, the elevated yields could last for a very long time. Theoretically, it should last as long as it takes for crypto to reach its full potential. This could take decades which means it might be time to take a closer look at DeFi.
+Even though DeFi yields are unsustainable, the elevated yields could last for a very long time. Theoretically, it should last as long as it takes for crypto to reach its full potential. This could be decades which means it might be time to take a closer look at DeFi.
 
 ![Jamie Foxx](https://media.giphy.com/media/AtRaEatCSjC0w/giphy.gif)
