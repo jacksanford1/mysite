@@ -6,7 +6,7 @@ disqus: false
 
 Hi, I'm Jack.
 
-I live in SF and I'm currently interested in programming, blockchain and studying economies/governments. I'm also a sucker for cool machine learning applications.
+I'm currently a digital nomad but I most recently lived in SF for 6 years. I'm working on [Sherlock](https://twitter.com/Sherlock_DeFi). I'm interested in programming, blockchain and studying economies/governments. I also spent some time in machine learning and wrote some articles about it.
 
 You can find more of me on [Twitter](https://twitter.com/John_LeslieIV).
 
