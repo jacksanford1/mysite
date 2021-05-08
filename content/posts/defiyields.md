@@ -4,7 +4,6 @@ date: 2021-05-09T00:59:33+02:00
 draft: false
 ---
 
-### DeFi yields are unsustainable
 
 But that’s ok. Here’s why:
 
@@ -30,15 +29,15 @@ How do people borrow money in DeFi then?
 
 In DeFi, there are no mortgages or credit card loans, etc. The only loan you can get (for now) is an over-collateralized one. It works like this: You have $10k in ETH. You’d like to get a loan so you can buy even more ETH. So you take your $10k of ETH and you put it up as collateral on a DeFi lending platform. The lending platform now “controls” your $10k of ETH. Because you’ve given them collateral, they now feel comfortable giving you $8k of a stablecoin (like DAI or USDC) and they’ll charge you 5-10% on that $8k loan. If you never pay back the $8k loan, the lending platform will simply keep $8k of your ETH. But if you DO plan on paying back the loan, you now have $10k of ETH exposure sitting in the lending protocol, and you have $8k of stablecoins to do whatever you want with. A lot of people take this $8k and swap it into ETH so they now have $18k of ETH exposure ($10k sitting in the lending protocol, $8k which they bought with the $8k stablecoin loan). Maybe you hold that $18k of ETH for six months and it becomes $30k of ETH. Then you pay back the original $8k stablecoin loan plus interest, and you get your initial ETH deposit back plus the increase in price of both the initial deposit AND the $8k you swapped into ETH. Because so many people want to make this trade, the interest rates in DeFi are elevated from TradFi.
 
-#### So why are the DeFi yields unsustainable?
+#### So why are DeFi yields unsustainable?
 
 There are two possible outcomes in the future, both of which cause DeFi yields to revert to “normal" levels:
  1. Fewer and fewer people believe crypto will play a big role in the future so no one wants to borrow money at 5% to invest in crypto. This is the "crypto fails" scenario.
 2. Crypto continues to grow until it reaches its “big role in the future” as 10% or maybe 100% of the market it is eating. At this point, crypto will enter a “steady-state” and continue to grow roughly along with global GDP growth (1-3%). **Note:** This includes the scenario where crypto eats everything to the point where all economic output flows through crypto or DeFi. This could take a long time, which means DeFi yields could be elevated for a long time.
 
-#### Plot Twist: TradFi yields are also unsustainable.
+#### Plot Twist: TradFi yields are also unsustainable
 
-![Elon Surprise](https://tenor.com/view/laughing-spacex-elon-musk-elon-musk-gif-13597458)
+![Chris Pratt Surprise](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
 
 Here’s why:
 
@@ -46,4 +45,4 @@ TradFi interest rates are ~0%. This rate is almost certainly being artificially 
 
 Even though DeFi yields are unsustainable, the elevated yields could last for a very long time. Theoretically, it should last as long as it takes for crypto to reach its full potential. This could take decades which means it might be time to take a closer look at DeFi.
 
-![True Detective](https://tenor.com/view/mc-conaughey-true-detective-inspecting-gif-5485634)
+![Jamie Foxx](https://media.giphy.com/media/AtRaEatCSjC0w/giphy.gif)
