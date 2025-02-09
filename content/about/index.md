@@ -6,7 +6,7 @@ disqus: false
 
 Hi, I'm Jack.
 
-I live in Austin, Texas. Previously I was a nomad for a year and before that I was in San Francisco for 6 years. 
+I live in New York City. In the past, I've lived in Amsterdam, Austin, and San Francisco. 
 
 I'm building [Sherlock](https://twitter.com/sherlockdefi) to make crypto a safer place for everyone. 
 
